@@ -5,3 +5,12 @@ Data analytics helps analyst uncover hidden pattern in large dataset whiles data
 
 ## Machine leanrin and AI 
 - Machine learning  is a subset of AI that helps ..
+
+# Technologies we are using in Data Science
+- sql
+- power BI 
+- spreadsheets
+- Python
+
+*How ever, we started with Explore 101*
+This is for bolding
